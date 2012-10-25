@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="E" format="1">
+  <advance width="1096"/>
+  <unicode hex="0045"/>
+  <outline>
+    <contour>
+      <point x="1037" y="1595" type="line" smooth="no"/>
+      <point x="1037" y="1346" type="line" smooth="no"/>
+      <point x="696" y="1346" type="line" smooth="no"/>
+      <point x="696" y="961" type="line" smooth="no"/>
+      <point x="1014" y="961" type="line" smooth="no"/>
+      <point x="1014" y="711" type="line" smooth="no"/>
+      <point x="696" y="711" type="line" smooth="no"/>
+      <point x="696" y="251" type="line" smooth="no"/>
+      <point x="1037" y="251" type="line" smooth="no"/>
+      <point x="1037" y="0" type="line" smooth="no"/>
+      <point x="92" y="0" type="line" smooth="no"/>
+      <point x="92" y="1595" type="line" smooth="no"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>251</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>711</integer>
+	    <key>width</key>	    <integer>250</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1346</integer>
+	    <key>width</key>	    <integer>249</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>104</integer>
+	    <key>width</key>
+	    <integer>945</integer>
+	  </dict>
+	</array>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+    </dict>
+  </lib>
+</glyph>

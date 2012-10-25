@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="J" format="1">
+  <advance width="923"/>
+  <unicode hex="004a"/>
+  <outline>
+    <contour>
+      <point x="831" y="1594" type="line" smooth="no"/>
+      <point x="831" y="274" type="line" smooth="yes"/>
+      <point x="831" y="-44"/>
+      <point x="604" y="-159"/>
+      <point x="310" y="-159" type="curve" smooth="yes"/>
+      <point x="229" y="-159"/>
+      <point x="142" y="-150"/>
+      <point x="54" y="-134" type="curve" smooth="no"/>
+      <point x="54" y="138" type="line" smooth="no"/>
+      <point x="227" y="138" type="line" smooth="no"/>
+      <point x="227" y="1594" type="line" smooth="no"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-159</integer>
+	    <key>width</key>	    <integer>297</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1574</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>54</integer>
+	    <key>width</key>
+	    <integer>777</integer>
+	  </dict>
+	</array>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+    </dict>
+  </lib>
+</glyph>

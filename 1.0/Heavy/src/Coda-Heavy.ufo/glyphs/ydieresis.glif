@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ydieresis" format="1">
+  <advance width="1337"/>
+  <unicode hex="00ff"/>
+  <outline>
+    <component base="dieresis" xOffset="16" yOffset="1347"/>
+    <component base="y"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-400</integer>
+	    <key>width</key>	    <integer>305</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1280</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1445</integer>
+	    <key>width</key>	    <integer>336</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>9</integer>
+	    <key>width</key>
+	    <integer>1323</integer>
+	  </dict>
+	</array>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+    </dict>
+  </lib>
+</glyph>

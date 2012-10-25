@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ccedilla" format="1">
+  <advance width="1448"/>
+  <unicode hex="00e7"/>
+  <outline>
+    <component base="cedilla" xOffset="257" yOffset="-14"/>
+    <component base="c"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-481</integer>
+	    <key>width</key>	    <integer>110</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>-180</integer>
+	    <key>width</key>	    <integer>180</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>-27</integer>
+	    <key>width</key>	    <integer>27</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>-27</integer>
+	    <key>width</key>	    <integer>226</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1105</integer>
+	    <key>width</key>	    <integer>222</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>509</integer>
+	    <key>width</key>
+	    <integer>227</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>609</integer>
+	    <key>width</key>
+	    <integer>177</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>799</integer>
+	    <key>width</key>
+	    <integer>217</integer>
+	  </dict>
+	</array>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+    </dict>
+  </lib>
+</glyph>

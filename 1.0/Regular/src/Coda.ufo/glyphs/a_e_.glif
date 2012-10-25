@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE" format="1">
+  <advance width="1967"/>
+  <unicode hex="00c6"/>
+  <outline>
+    <contour>
+      <point x="1856" y="0" type="line" smooth="no"/>
+      <point x="981" y="0" type="line" smooth="no"/>
+      <point x="981" y="381" type="line" smooth="no"/>
+      <point x="433" y="381" type="line" smooth="no"/>
+      <point x="211" y="0" type="line" smooth="no"/>
+      <point x="20" y="0" type="line" smooth="no"/>
+      <point x="906" y="1490" type="line" smooth="no"/>
+      <point x="1837" y="1490" type="line" smooth="no"/>
+      <point x="1837" y="1323" type="line" smooth="no"/>
+      <point x="1182" y="1323" type="line" smooth="no"/>
+      <point x="1182" y="864" type="line" smooth="no"/>
+      <point x="1726" y="864" type="line" smooth="no"/>
+      <point x="1726" y="697" type="line" smooth="no"/>
+      <point x="1182" y="697" type="line" smooth="no"/>
+      <point x="1182" y="167" type="line" smooth="no"/>
+      <point x="1856" y="167" type="line" smooth="no"/>
+    </contour>
+    <contour>
+      <point x="982" y="1342" type="curve" smooth="no"/>
+      <point x="787" y="995" type="line" smooth="no"/>
+      <point x="518" y="523" type="line" smooth="no"/>
+      <point x="981" y="523" type="line" smooth="no"/>
+      <point x="981" y="937" type="line" smooth="yes"/>
+      <point x="981.333" y="1073.33"/>
+      <point x="981.667" y="1208.33"/>
+    </contour>
+  </outline>
+</glyph>

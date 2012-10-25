@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gbreve" format="1">
+  <advance width="1540"/>
+  <unicode hex="011e"/>
+  <outline>
+    <component base="breve" xOffset="234" yOffset="340"/>
+    <component base="G"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-38</integer>
+	    <key>width</key>	    <integer>272</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>-1</integer>
+	    <key>width</key>	    <integer>235</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>537</integer>
+	    <key>width</key>	    <integer>231</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1357</integer>
+	    <key>width</key>	    <integer>275</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1734</integer>
+	    <key>width</key>	    <integer>402</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>324</integer>
+	    <key>width</key>
+	    <integer>297</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>986</integer>
+	    <key>width</key>
+	    <integer>253</integer>
+	  </dict>
+	</array>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+    </dict>
+  </lib>
+</glyph>

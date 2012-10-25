@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="v" format="1">
+  <advance width="1335"/>
+  <unicode hex="0076"/>
+  <outline>
+    <contour>
+      <point x="676" y="356" type="line" smooth="no"/>
+      <point x="689" y="356" type="line" smooth="no"/>
+      <point x="793" y="1300" type="line" smooth="no"/>
+      <point x="1344" y="1300" type="line" smooth="no"/>
+      <point x="1065" y="0" type="line" smooth="no"/>
+      <point x="271" y="0" type="line" smooth="no"/>
+      <point x="-9" y="1300" type="line" smooth="no"/>
+      <point x="542" y="1300" type="line" smooth="no"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>340</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1280</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>4</integer>
+	    <key>width</key>
+	    <integer>1343</integer>
+	  </dict>
+	</array>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+    </dict>
+  </lib>
+</glyph>

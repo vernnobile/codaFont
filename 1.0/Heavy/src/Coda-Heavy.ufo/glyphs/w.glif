@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="w" format="1">
+  <advance width="2025"/>
+  <unicode hex="0077"/>
+  <outline>
+    <contour>
+      <point x="923" y="0" type="line" smooth="no"/>
+      <point x="233" y="0" type="line" smooth="no"/>
+      <point x="35" y="1300" type="line" smooth="no"/>
+      <point x="535" y="1300" type="line" smooth="no"/>
+      <point x="630" y="385" type="line" smooth="no"/>
+      <point x="644" y="385" type="line" smooth="no"/>
+      <point x="746" y="1300" type="line" smooth="no"/>
+      <point x="1291" y="1300" type="line" smooth="no"/>
+      <point x="1388" y="385" type="line" smooth="no"/>
+      <point x="1402" y="385" type="line" smooth="no"/>
+      <point x="1495" y="1300" type="line" smooth="no"/>
+      <point x="1990" y="1300" type="line" smooth="no"/>
+      <point x="1796" y="0" type="line" smooth="no"/>
+      <point x="1102" y="0" type="line" smooth="no"/>
+      <point x="1016" y="801" type="line" smooth="no"/>
+      <point x="1006" y="801" type="line" smooth="no"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>385</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>801</integer>
+	    <key>width</key>	    <integer>499</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1280</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>32</integer>
+	    <key>width</key>
+	    <integer>1999</integer>
+	  </dict>
+	</array>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+    </dict>
+  </lib>
+</glyph>

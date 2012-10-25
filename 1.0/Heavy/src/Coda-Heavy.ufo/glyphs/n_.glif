@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="N" format="1">
+  <advance width="1576"/>
+  <unicode hex="004e"/>
+  <outline>
+    <contour>
+      <point x="945" y="0" type="line" smooth="no"/>
+      <point x="540" y="711" type="line" smooth="no"/>
+      <point x="540" y="0" type="line" smooth="no"/>
+      <point x="92" y="0" type="line" smooth="no"/>
+      <point x="92" y="1595" type="line" smooth="no"/>
+      <point x="609" y="1595" type="line" smooth="no"/>
+      <point x="1040" y="834" type="line" smooth="no"/>
+      <point x="1040" y="1595" type="line" smooth="no"/>
+      <point x="1484" y="1595" type="line" smooth="no"/>
+      <point x="1484" y="0" type="line" smooth="no"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1575</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>104</integer>
+	    <key>width</key>
+	    <integer>1392</integer>
+	  </dict>
+	</array>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+    </dict>
+  </lib>
+</glyph>

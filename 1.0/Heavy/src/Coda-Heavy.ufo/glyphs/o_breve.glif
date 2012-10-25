@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Obreve" format="1">
+  <advance width="1542"/>
+  <unicode hex="014e"/>
+  <outline>
+    <component base="breve" xOffset="234" yOffset="339"/>
+    <component base="O"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-40</integer>
+	    <key>width</key>	    <integer>274</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1361</integer>
+	    <key>width</key>	    <integer>268</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1734</integer>
+	    <key>width</key>	    <integer>402</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>91</integer>
+	    <key>width</key>
+	    <integer>1382</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>324</integer>
+	    <key>width</key>
+	    <integer>297</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>942</integer>
+	    <key>width</key>
+	    <integer>297</integer>
+	  </dict>
+	</array>
+      </dict>
+    <key>com.typemytype.robofont.layerData</key>
+    </dict>
+  </lib>
+</glyph>

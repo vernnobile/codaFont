@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hbar" format="1">
+  <advance width="1406"/>
+  <unicode hex="0126"/>
+  <outline>
+    <contour>
+      <point x="1243" y="0" type="line" smooth="no"/>
+      <point x="1040" y="0" type="line" smooth="no"/>
+      <point x="1040" y="684" type="line" smooth="no"/>
+      <point x="374" y="684" type="line" smooth="no"/>
+      <point x="374" y="0" type="line" smooth="no"/>
+      <point x="171" y="0" type="line" smooth="no"/>
+      <point x="171" y="1083" type="line" smooth="no"/>
+      <point x="93" y="1083" type="line" smooth="no"/>
+      <point x="93" y="1189" type="line" smooth="no"/>
+      <point x="171" y="1189" type="line" smooth="no"/>
+      <point x="171" y="1490" type="line" smooth="no"/>
+      <point x="374" y="1490" type="line" smooth="no"/>
+      <point x="374" y="1189" type="line" smooth="no"/>
+      <point x="1040" y="1189" type="line" smooth="no"/>
+      <point x="1040" y="1490" type="line" smooth="no"/>
+      <point x="1243" y="1490" type="line" smooth="no"/>
+      <point x="1243" y="1189" type="line" smooth="no"/>
+      <point x="1320" y="1189" type="line" smooth="no"/>
+      <point x="1320" y="1083" type="line" smooth="no"/>
+      <point x="1243" y="1083" type="line" smooth="no"/>
+    </contour>
+    <contour>
+      <point x="374" y="1083" type="line" smooth="no"/>
+      <point x="374" y="842" type="line" smooth="no"/>
+      <point x="1040" y="842" type="line" smooth="no"/>
+      <point x="1040" y="1083" type="line" smooth="no"/>
+    </contour>
+  </outline>
+</glyph>

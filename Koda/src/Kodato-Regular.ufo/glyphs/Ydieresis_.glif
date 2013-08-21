@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ydieresis" format="1">
+  <advance width="1509"/>
+  <unicode hex="0178"/>
+  <outline>
+    <contour>
+      <point x="263.88671875" y="713.0" type="curve" smooth="yes"/>
+      <point x="562.11328125" y="713" type="line" smooth="yes"/>
+      <point x="609.602539062" y="713"/>
+      <point x="638.0" y="684.602539062"/>
+      <point x="638.0" y="637.11328125" type="curve" smooth="yes"/>
+      <point x="638.0" y="452.88671875" type="line" smooth="yes"/>
+      <point x="638.0" y="405.397460938"/>
+      <point x="609.602539062" y="377.0"/>
+      <point x="562.11328125" y="377.0" type="curve" smooth="yes"/>
+      <point x="263.88671875" y="377.0" type="line" smooth="yes"/>
+      <point x="216.397460938" y="377.0"/>
+      <point x="188.0" y="405.397460938"/>
+      <point x="188.0" y="452.88671875" type="curve" smooth="yes"/>
+      <point x="188.0" y="637.11328125" type="line" smooth="yes"/>
+      <point x="188.0" y="684.602539062"/>
+      <point x="216.397460938" y="713.0"/>
+    </contour>
+    <contour>
+      <point x="946.88671875" y="713.0" type="curve" smooth="yes"/>
+      <point x="1246.11035156" y="713.0" type="line" smooth="yes"/>
+      <point x="1293.59960938" y="713.0"/>
+      <point x="1322.0" y="684.602539062"/>
+      <point x="1322.0" y="637.11328125" type="curve" smooth="yes"/>
+      <point x="1322.0" y="452.88671875" type="line" smooth="yes"/>
+      <point x="1322.0" y="405.397460938"/>
+      <point x="1293.59960938" y="377.0"/>
+      <point x="1246.11035156" y="377.0" type="curve" smooth="yes"/>
+      <point x="946.88671875" y="377.0" type="line" smooth="yes"/>
+      <point x="899.397460938" y="377.0"/>
+      <point x="871.0" y="405.397460938"/>
+      <point x="871.0" y="452.88671875" type="curve" smooth="yes"/>
+      <point x="871.0" y="637.11328125" type="line" smooth="yes"/>
+      <point x="871.0" y="684.602539062"/>
+      <point x="899.397460938" y="713.0"/>
+    </contour>
+    <contour>
+      <point x="982.3515625" y="0.0" type="curve" smooth="yes"/>
+      <point x="530.3515625" y="0.0" type="line" smooth="yes"/>
+      <point x="482.3515625" y="0.0"/>
+      <point x="458.3515625" y="30.0"/>
+      <point x="454.3515625" y="76.0" type="curve" smooth="yes"/>
+      <point x="445.3515625" y="169.0"/>
+      <point x="439.3515625" y="338.0"/>
+      <point x="436.3515625" y="532.0" type="curve"/>
+      <point x="36.3515625" y="1524.0" type="line" smooth="yes"/>
+      <point x="20.3515625" y="1564.0"/>
+      <point x="41.3515625" y="1595.0"/>
+      <point x="84.3515625" y="1595.0" type="curve" smooth="yes"/>
+      <point x="492.3515625" y="1595.0" type="line" smooth="yes"/>
+      <point x="542.3515625" y="1595.0"/>
+      <point x="575.3515625" y="1570.0"/>
+      <point x="588.3515625" y="1522.0" type="curve" smooth="yes"/>
+      <point x="738.3515625" y="988.0" type="line"/>
+      <point x="739.3515625" y="980.0"/>
+      <point x="744.3515625" y="975.0"/>
+      <point x="753.3515625" y="975.0" type="curve" smooth="yes"/>
+      <point x="755.3515625" y="975.0" type="line" smooth="yes"/>
+      <point x="763.3515625" y="975.0"/>
+      <point x="768.3515625" y="980.0"/>
+      <point x="769.3515625" y="988.0" type="curve"/>
+      <point x="924.3515625" y="1522.0" type="line" smooth="yes"/>
+      <point x="937.3515625" y="1570.0"/>
+      <point x="970.3515625" y="1595.0"/>
+      <point x="1020.34960938" y="1595.0" type="curve" smooth="yes"/>
+      <point x="1424.34960938" y="1595.0" type="line" smooth="yes"/>
+      <point x="1467.34960938" y="1595.0"/>
+      <point x="1489.34960938" y="1564.0"/>
+      <point x="1473.34960938" y="1524.0" type="curve" smooth="yes"/>
+      <point x="1076.34960938" y="528.0" type="line"/>
+      <point x="1073.34960938" y="355.0"/>
+      <point x="1067.34960938" y="194.0"/>
+      <point x="1058.34960938" y="76.0" type="curve" smooth="yes"/>
+      <point x="1055.34960938" y="29.0"/>
+      <point x="1030.34960938" y="0.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Ydieresis</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1509</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

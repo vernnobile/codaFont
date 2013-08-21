@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Y" format="1">
-  <advance width="1286"/>
+  <advance width="1175"/>
   <unicode hex="0059"/>
   <outline>
     <contour>
-      <point x="541" y="1490" type="move" name="top"/>
+      <point x="588" y="727" type="line"/>
+      <point x="919" y="1490" type="line"/>
+      <point x="1133" y="1490" type="line"/>
+      <point x="682" y="518" type="line"/>
+      <point x="682" y="0" type="line"/>
+      <point x="480" y="0" type="line"/>
+      <point x="480" y="518" type="line"/>
+      <point x="42" y="1490" type="line"/>
+      <point x="263" y="1490" type="line"/>
     </contour>
     <contour>
-      <point x="645" y="727" type="line"/>
-      <point x="976" y="1490" type="line"/>
-      <point x="1190" y="1490" type="line"/>
-      <point x="739" y="518" type="line"/>
-      <point x="739" y="0" type="line"/>
-      <point x="537" y="0" type="line"/>
-      <point x="537" y="518" type="line"/>
-      <point x="99" y="1490" type="line"/>
-      <point x="320" y="1490" type="line"/>
+      <point x="484" y="1490" type="move" name="top"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

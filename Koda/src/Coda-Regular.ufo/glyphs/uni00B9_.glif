@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni00B9" format="1">
+  <advance width="731"/>
+  <unicode hex="00B9"/>
+  <outline>
+    <contour>
+      <point x="115" y="1042" type="line"/>
+      <point x="115" y="1043" type="line" smooth="yes"/>
+      <point x="115" y="1089.19999695"/>
+      <point x="136.059005737" y="1113.07000732"/>
+      <point x="185.884994507" y="1119.33000183" type="curve" smooth="yes"/>
+      <point x="217.01499939" y="1123.24000549"/>
+      <point x="246.268005371" y="1129.72999573"/>
+      <point x="272.975006104" y="1138.55000305" type="curve" smooth="yes"/>
+      <point x="349.43800354" y="1163.80000305"/>
+      <point x="387.960006714" y="1170.0"/>
+      <point x="468.48500061" y="1170.0" type="curve" smooth="yes"/>
+      <point x="578.113006592" y="1170.0" type="line" smooth="yes"/>
+      <point x="625.602996826" y="1170.0"/>
+      <point x="654.0" y="1141.6000061"/>
+      <point x="654.0" y="1094.11000061" type="curve" smooth="yes"/>
+      <point x="654.0" y="205.886993408" type="line" smooth="yes"/>
+      <point x="654.0" y="158.397003174"/>
+      <point x="625.602996826" y="130.0"/>
+      <point x="578.113006592" y="130.0" type="curve" smooth="yes"/>
+      <point x="334.887008667" y="130.0" type="line" smooth="yes"/>
+      <point x="287.397018433" y="130.0"/>
+      <point x="259.000015259" y="158.397003174"/>
+      <point x="259.000015259" y="205.886993408" type="curve" smooth="yes"/>
+      <point x="259.000015259" y="911.403991699" type="line" smooth="yes"/>
+      <point x="259.000015259" y="948.699005127"/>
+      <point x="236.699020386" y="971.0"/>
+      <point x="199.404022217" y="971.0" type="curve" smooth="yes"/>
+      <point x="186.000015259" y="971.0" type="line" smooth="yes"/>
+      <point x="141.568008423" y="971.0"/>
+      <point x="115.000015259" y="997.567993164"/>
+      <point x="115.000015259" y="1042.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

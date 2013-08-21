@@ -1,27 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="M" format="1">
   <advance width="1671"/>
-  <unicode hex="004d"/>
+  <unicode hex="004D"/>
   <outline>
     <contour>
-      <point x="113" y="0" type="line" smooth="no"/>
-      <point x="187" y="1499" type="line" smooth="no"/>
-      <point x="407" y="1499" type="line" smooth="no"/>
-      <point x="837" y="326" type="line" smooth="no"/>
-      <point x="1259" y="1499" type="line" smooth="no"/>
-      <point x="1479" y="1499" type="line" smooth="no"/>
-      <point x="1558" y="0" type="line" smooth="no"/>
-      <point x="1360" y="0" type="line" smooth="no"/>
-      <point x="1308" y="1201" type="line" smooth="no"/>
-      <point x="894" y="0" type="line" smooth="no"/>
-      <point x="778" y="0" type="line" smooth="no"/>
-      <point x="344" y="1192" type="line" smooth="no"/>
-      <point x="300" y="0" type="line" smooth="no"/>
+      <point x="113" y="0" type="line"/>
+      <point x="187" y="1499" type="line"/>
+      <point x="407" y="1499" type="line"/>
+      <point x="837" y="326" type="line"/>
+      <point x="1259" y="1499" type="line"/>
+      <point x="1479" y="1499" type="line"/>
+      <point x="1558" y="0" type="line"/>
+      <point x="1360" y="0" type="line"/>
+      <point x="1308" y="1201" type="line"/>
+      <point x="894" y="0" type="line"/>
+      <point x="778" y="0" type="line"/>
+      <point x="344" y="1192" type="line"/>
+      <point x="300" y="0" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-    <key>com.typemytype.robofont.layerData</key>
-    </dict>
-  </lib>
 </glyph>

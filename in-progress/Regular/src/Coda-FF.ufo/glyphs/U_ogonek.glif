@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uogonek" format="1">
+  <advance width="1429"/>
+  <unicode hex="0172"/>
+  <outline>
+    <component base="U"/>
+    <component base="ogonek" xOffset="703"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-554</integer>
+	    <key>width</key>	    <integer>127</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>-24</integer>
+	    <key>width</key>	    <integer>154</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>-20</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1470</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>146</integer>
+	    <key>width</key>
+	    <integer>203</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>815</integer>
+	    <key>width</key>
+	    <integer>189</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>1069</integer>
+	    <key>width</key>
+	    <integer>202</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

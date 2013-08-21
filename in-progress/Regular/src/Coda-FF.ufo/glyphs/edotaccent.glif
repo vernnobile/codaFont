@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="edotaccent" format="1">
+  <advance width="1127"/>
+  <unicode hex="0117"/>
+  <outline>
+    <component base="dotaccent" xOffset="337"/>
+    <component base="e"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-15</integer>
+	    <key>width</key>	    <integer>137</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>550</integer>
+	    <key>width</key>	    <integer>105</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>991</integer>
+	    <key>width</key>	    <integer>137</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1207</integer>
+	    <key>width</key>	    <integer>228</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>132</integer>
+	    <key>width</key>
+	    <integer>197</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>465</integer>
+	    <key>width</key>
+	    <integer>198</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>825</integer>
+	    <key>width</key>
+	    <integer>197</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>842</integer>
+	    <key>width</key>
+	    <integer>153</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

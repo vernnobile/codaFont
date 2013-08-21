@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Wacute" format="1">
+  <advance width="2108"/>
+  <unicode hex="1E82"/>
+  <outline>
+    <contour>
+      <point x="650.5" y="1715" type="curve" smooth="yes"/>
+      <point x="650.5" y="1733"/>
+      <point x="660.5" y="1754"/>
+      <point x="684.5" y="1775" type="curve" smooth="yes"/>
+      <point x="847.5" y="1924"/>
+      <point x="1057.5" y="2130"/>
+      <point x="1158.5" y="2188" type="curve" smooth="yes"/>
+      <point x="1203.5" y="2214"/>
+      <point x="1245.5" y="2225"/>
+      <point x="1283.5" y="2225" type="curve" smooth="yes"/>
+      <point x="1386.5" y="2225"/>
+      <point x="1457.5" y="2141"/>
+      <point x="1457.5" y="2047" type="curve" smooth="yes"/>
+      <point x="1457.5" y="1982"/>
+      <point x="1422.5" y="1912"/>
+      <point x="1341.5" y="1865" type="curve" smooth="yes"/>
+      <point x="1237.5" y="1805"/>
+      <point x="950.5" y="1733"/>
+      <point x="745.5" y="1671" type="curve"/>
+      <point x="734.5" y="1667"/>
+      <point x="723.5" y="1666"/>
+      <point x="713.5" y="1666" type="curve" smooth="yes"/>
+      <point x="678.5" y="1666"/>
+      <point x="650.5" y="1686"/>
+    </contour>
+    <contour>
+      <point x="1327.33984375" y="1519.5703125" type="curve" smooth="yes"/>
+      <point x="1401.0" y="853.0" type="line"/>
+      <point x="1417.04980469" y="599.000976562" type="line" smooth="yes"/>
+      <point x="1417.63964844" y="589.690429688"/>
+      <point x="1423.69042969" y="584.356445312"/>
+      <point x="1433.0" y="584.938476562" type="curve" smooth="yes"/>
+      <point x="1435.0" y="585.061523438" type="line" smooth="yes"/>
+      <point x="1444.61035156" y="585.663085938"/>
+      <point x="1450.5" y="591.379882812"/>
+      <point x="1451.38964844" y="600.965820312" type="curve" smooth="yes"/>
+      <point x="1536.95996094" y="1519.44042969" type="line" smooth="yes"/>
+      <point x="1541.44042969" y="1567.55957031"/>
+      <point x="1571.54980469" y="1595.0"/>
+      <point x="1619.88964844" y="1595.0" type="curve" smooth="yes"/>
+      <point x="1999.11035156" y="1595.0" type="line" smooth="yes"/>
+      <point x="2045.01953125" y="1595.0"/>
+      <point x="2070.55957031" y="1565.34960938"/>
+      <point x="2063.75" y="1519.95019531" type="curve" smooth="yes"/>
+      <point x="1847.25" y="75.0498046875" type="line" smooth="yes"/>
+      <point x="1840.01953125" y="26.8037109375"/>
+      <point x="1808.90039062" y="0.0"/>
+      <point x="1760.11035156" y="0.0" type="curve" smooth="yes"/>
+      <point x="1249.88964844" y="0.0" type="line" smooth="yes"/>
+      <point x="1201.05957031" y="0.0"/>
+      <point x="1169.83007812" y="26.732421875"/>
+      <point x="1162.29980469" y="74.9794921875" type="curve" smooth="yes"/>
+      <point x="1087.70019531" y="553.01953125" type="line" smooth="yes"/>
+      <point x="1081.36035156" y="593.666015625"/>
+      <point x="1074.25976562" y="662.706054688"/>
+      <point x="1072.20019531" y="703.791992188" type="curve" smooth="yes"/>
+      <point x="1061.9296875" y="908.516601562" type="line" smooth="yes"/>
+      <point x="1061.33984375" y="920.149414062"/>
+      <point x="1054.15039062" y="927.0"/>
+      <point x="1042.5" y="927.0" type="curve" smooth="yes"/>
+      <point x="1040.5" y="927.0" type="line" smooth="yes"/>
+      <point x="1028.87011719" y="927.0"/>
+      <point x="1021.70019531" y="920.138671875"/>
+      <point x="1021.20019531" y="908.516601562" type="curve" smooth="yes"/>
+      <point x="1012.29980469" y="703.791992188" type="line" smooth="yes"/>
+      <point x="1010.5" y="662.423828125"/>
+      <point x="1003.58007812" y="593.948242188"/>
+      <point x="997.06640625" y="553.056640625" type="curve" smooth="yes"/>
+      <point x="920.93359375" y="74.943359375" type="line" smooth="yes"/>
+      <point x="913.250976562" y="26.6962890625"/>
+      <point x="881.967773438" y="0.0"/>
+      <point x="833.11328125" y="0.0" type="curve" smooth="yes"/>
+      <point x="342.88671875" y="0.0" type="line" smooth="yes"/>
+      <point x="294.150390625" y="0.0"/>
+      <point x="263.141601562" y="26.8740234375"/>
+      <point x="256.21484375" y="75.1171875" type="curve" smooth="yes"/>
+      <point x="48.78515625" y="1519.87988281" type="line" smooth="yes"/>
+      <point x="42.2509765625" y="1565.38964844"/>
+      <point x="67.9130859375" y="1595.0"/>
+      <point x="113.88671875" y="1595.0" type="curve" smooth="yes"/>
+      <point x="545.11328125" y="1595.0" type="line" smooth="yes"/>
+      <point x="593.021484375" y="1595.0"/>
+      <point x="622.244140625" y="1567.04980469"/>
+      <point x="624.374023438" y="1519.19042969" type="curve" smooth="yes"/>
+      <point x="665.176757812" y="602.466796875" type="line" smooth="yes"/>
+      <point x="665.6953125" y="590.84375"/>
+      <point x="672.865234375" y="584.0"/>
+      <point x="684.5" y="584.0" type="curve" smooth="yes"/>
+      <point x="686.5" y="584.0" type="line" smooth="yes"/>
+      <point x="698.166015625" y="584.0"/>
+      <point x="705.40625" y="590.822265625"/>
+      <point x="706.09765625" y="602.466796875" type="curve" smooth="yes"/>
+      <point x="721.0" y="853.0" type="line"/>
+      <point x="796.463867188" y="1519.5703125" type="line" smooth="yes"/>
+      <point x="801.918945312" y="1567.76953125"/>
+      <point x="832.388671875" y="1595.0"/>
+      <point x="880.88671875" y="1595.0" type="curve" smooth="yes"/>
+      <point x="1243.11035156" y="1595.0" type="line" smooth="yes"/>
+      <point x="1291.58984375" y="1595.0"/>
+      <point x="1322.00976562" y="1567.75976562"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Wacute</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>2108</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

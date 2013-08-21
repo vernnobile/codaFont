@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01C4" format="1">
   <advance width="2530"/>
-  <unicode hex="01c4"/>
+  <unicode hex="01C4"/>
   <outline>
     <component base="D"/>
     <component base="Zcaron" xOffset="1420"/>
   </outline>
-  <lib>
-    <dict>
-    <key>com.typemytype.robofont.layerData</key>
-    </dict>
-  </lib>
 </glyph>

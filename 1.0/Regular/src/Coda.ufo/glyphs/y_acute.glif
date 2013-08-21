@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Yacute" format="1">
   <advance width="1087"/>
-  <unicode hex="00dd"/>
+  <unicode hex="00DD"/>
   <outline>
     <component base="Y"/>
     <component base="acute" xOffset="194" yOffset="329"/>

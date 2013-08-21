@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guillemotleft" format="1">
   <advance width="1234"/>
-  <unicode hex="00ab"/>
+  <unicode hex="00AB"/>
   <outline>
     <contour>
-      <point x="480" y="775" type="line" smooth="no"/>
-      <point x="954" y="1199" type="line" smooth="no"/>
-      <point x="1049" y="1086" type="line" smooth="no"/>
-      <point x="628" y="726" type="line" smooth="no"/>
-      <point x="1049" y="366" type="line" smooth="no"/>
-      <point x="954" y="253" type="line" smooth="no"/>
-      <point x="480" y="677" type="line" smooth="no"/>
+      <point x="480" y="775" type="line"/>
+      <point x="954" y="1199" type="line"/>
+      <point x="1049" y="1086" type="line"/>
+      <point x="628" y="726" type="line"/>
+      <point x="1049" y="366" type="line"/>
+      <point x="954" y="253" type="line"/>
+      <point x="480" y="677" type="line"/>
     </contour>
     <contour>
-      <point x="80" y="775" type="line" smooth="no"/>
-      <point x="555" y="1199" type="line" smooth="no"/>
-      <point x="650" y="1086" type="line" smooth="no"/>
-      <point x="229" y="726" type="line" smooth="no"/>
-      <point x="650" y="366" type="line" smooth="no"/>
-      <point x="555" y="253" type="line" smooth="no"/>
-      <point x="80" y="677" type="line" smooth="no"/>
+      <point x="80" y="775" type="line"/>
+      <point x="555" y="1199" type="line"/>
+      <point x="650" y="1086" type="line"/>
+      <point x="229" y="726" type="line"/>
+      <point x="650" y="366" type="line"/>
+      <point x="555" y="253" type="line"/>
+      <point x="80" y="677" type="line"/>
     </contour>
   </outline>
 </glyph>

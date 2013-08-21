@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="r" format="1">
-  <advance width="776"/>
+  <advance width="731"/>
   <unicode hex="0072"/>
   <outline>
-    <contour>
-      <point x="359" y="1097" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="359" y="0" type="move" name="bottom"/>
-    </contour>
     <contour>
       <point x="645" y="1122" type="curve"/>
       <point x="637" y="955" type="line"/>
@@ -32,5 +26,18 @@
       <point x="615" y="1125"/>
       <point x="630" y="1124"/>
     </contour>
+    <contour>
+      <point x="359" y="1097" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="359" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

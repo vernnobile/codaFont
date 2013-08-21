@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Cdotaccent" format="1">
   <advance width="1360"/>
-  <unicode hex="010a"/>
+  <unicode hex="010A"/>
   <outline>
     <component base="C"/>
     <component base="dotaccent" xOffset="501" yOffset="409"/>

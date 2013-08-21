@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="E_E" format="1">
+  <advance width="2024"/>
+  <outline>
+    <contour>
+      <point x="1012" y="1300" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1012" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="1822" y="10" type="move" name="ogonek"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>c</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>E_E</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>2024</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

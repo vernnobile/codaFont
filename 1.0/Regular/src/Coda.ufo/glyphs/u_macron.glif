@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Umacron" format="1">
   <advance width="1442"/>
-  <unicode hex="016a"/>
+  <unicode hex="016A"/>
   <outline>
     <component base="U"/>
     <component base="macron" xOffset="292" yOffset="905"/>

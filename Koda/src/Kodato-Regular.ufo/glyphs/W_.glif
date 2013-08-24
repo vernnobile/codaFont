@@ -54,8 +54,8 @@
       <point x="330.510327912" y="-1.52587890625e-05"/>
       <point x="299.502332306" y="26.8744812012"/>
       <point x="292.575330353" y="75.1170806885" type="curve" smooth="yes"/>
-      <point x="85.1451240548" y="1519.87997437" type="line" smooth="yes"/>
-      <point x="78.6115394601" y="1565.38996887"/>
+      <point x="85.1451240551" y="1519.87997437" type="line" smooth="yes"/>
+      <point x="78.6115394604" y="1565.38996887"/>
       <point x="104.273526765" y="1594.99996948"/>
       <point x="150.247327424" y="1594.99996948" type="curve" smooth="yes"/>
       <point x="581.473325348" y="1594.99996948" type="line" smooth="yes"/>
@@ -105,7 +105,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>2185.33783931</real>
+          <real>2185.337839312484</real>
         </dict>
       </dict>
     </dict>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="I" format="1">
-  <advance width="600.0"/>
+  <advance width="687.357001974"/>
   <unicode hex="0049"/>
   <outline>
-    <component base="uc_main_stem"/>
+    <component base="uc_main_stem" xOffset="27.1666666677"/>
   </outline>
   <lib>
     <dict>
@@ -46,7 +46,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>600.0</real>
+          <real>687.357001974359</real>
         </dict>
       </dict>
     </dict>

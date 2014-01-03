@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caron" format="1">
+  <advance width="1101"/>
+  <unicode hex="02C7"/>
+  <outline>
+    <contour>
+      <point x="625" y="1215" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="314.498" y="1877.15" type="curve" smooth="yes"/>
+      <point x="283.752" y="1877.15"/>
+      <point x="259.593" y="1855.34"/>
+      <point x="259.593" y="1824.81" type="curve" smooth="yes"/>
+      <point x="259.593" y="1812.27"/>
+      <point x="263.489" y="1798.33"/>
+      <point x="272" y="1784" type="curve" smooth="yes"/>
+      <point x="506" y="1417" type="line" smooth="yes"/>
+      <point x="534" y="1373"/>
+      <point x="581" y="1354"/>
+      <point x="628" y="1354" type="curve" smooth="yes"/>
+      <point x="674" y="1354"/>
+      <point x="719" y="1372"/>
+      <point x="749" y="1417" type="curve"/>
+      <point x="982" y="1784" type="line" smooth="yes"/>
+      <point x="991.363" y="1798.51"/>
+      <point x="995.685" y="1813.02"/>
+      <point x="995.685" y="1826.1" type="curve" smooth="yes"/>
+      <point x="995.685" y="1855.88"/>
+      <point x="971.661" y="1877.88"/>
+      <point x="942.099" y="1877.88" type="curve" smooth="yes"/>
+      <point x="927.879" y="1877.88"/>
+      <point x="912.842" y="1872.87"/>
+      <point x="900" y="1862" type="curve" smooth="yes"/>
+      <point x="627" y="1626" type="line"/>
+      <point x="355" y="1862" type="line" smooth="yes"/>
+      <point x="342.497" y="1872.58"/>
+      <point x="328.144" y="1877.15"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

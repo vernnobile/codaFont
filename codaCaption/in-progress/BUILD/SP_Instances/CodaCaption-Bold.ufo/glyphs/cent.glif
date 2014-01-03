@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cent" format="1">
+  <advance width="1479"/>
+  <unicode hex="00A2"/>
+  <outline>
+    <component base="C"/>
+    <contour>
+      <point x="710" y="42" type="line"/>
+      <point x="710" y="-264" type="line"/>
+      <point x="840" y="-264" type="line"/>
+      <point x="840" y="42" type="line"/>
+    </contour>
+    <contour>
+      <point x="708" y="1797" type="line"/>
+      <point x="708" y="1472" type="line"/>
+      <point x="838" y="1472" type="line"/>
+      <point x="838" y="1797" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

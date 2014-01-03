@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AEmacron" format="1">
+  <advance width="2059"/>
+  <unicode hex="01E2"/>
+  <outline>
+    <component base="AE"/>
+    <component base="macron" xOffset="572" yOffset="383"/>
+  </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

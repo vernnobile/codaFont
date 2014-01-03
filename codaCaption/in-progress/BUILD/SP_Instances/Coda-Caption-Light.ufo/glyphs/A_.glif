@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="A" format="1">
+  <advance width="1353"/>
+  <unicode hex="0041"/>
+  <outline>
+    <contour>
+      <point x="676" y="1480" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1173" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="676" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="579" y="1474" type="line"/>
+      <point x="99" y="0" type="line"/>
+      <point x="255" y="0" type="line"/>
+      <point x="374" y="383" type="line"/>
+      <point x="965" y="383" type="line"/>
+      <point x="1088" y="0" type="line"/>
+      <point x="1256" y="0" type="line"/>
+      <point x="786" y="1474" type="line"/>
+    </contour>
+    <contour>
+      <point x="920" y="517" type="line"/>
+      <point x="419" y="517" type="line"/>
+      <point x="672" y="1357" type="line"/>
+      <point x="671" y="1357" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

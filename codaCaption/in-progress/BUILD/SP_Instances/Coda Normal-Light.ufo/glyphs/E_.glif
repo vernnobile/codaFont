@@ -13,18 +13,18 @@
       <point x="580" y="0" type="move" name="bot"/>
     </contour>
     <contour>
-      <point x="193" y="1474" type="line"/>
+      <point x="193" y="1466" type="line"/>
       <point x="193" y="0" type="line"/>
       <point x="1023" y="0" type="line"/>
-      <point x="1046" y="138" type="line"/>
-      <point x="340" y="138" type="line"/>
-      <point x="340" y="693" type="line"/>
-      <point x="931" y="693" type="line"/>
-      <point x="931" y="841" type="line"/>
-      <point x="340" y="841" type="line"/>
-      <point x="340" y="1335" type="line"/>
-      <point x="1034" y="1335" type="line"/>
-      <point x="1013" y="1474" type="line"/>
+      <point x="1046" y="130" type="line"/>
+      <point x="340" y="130" type="line"/>
+      <point x="340" y="691" type="line"/>
+      <point x="931" y="691" type="line"/>
+      <point x="931" y="833" type="line"/>
+      <point x="340" y="833" type="line"/>
+      <point x="340" y="1334" type="line"/>
+      <point x="1034" y="1334" type="line"/>
+      <point x="1013" y="1466" type="line"/>
     </contour>
   </outline>
   <lib>

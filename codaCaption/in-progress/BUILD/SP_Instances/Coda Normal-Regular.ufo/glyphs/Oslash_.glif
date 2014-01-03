@@ -7,16 +7,16 @@
       <point x="852" y="1595" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="1148" y="1327" type="line"/>
-      <point x="1336" y="1620" type="line"/>
-      <point x="1213" y="1692" type="line"/>
-      <point x="1020" y="1391" type="line"/>
+      <point x="1145" y="1328" type="line"/>
+      <point x="1332" y="1616" type="line"/>
+      <point x="1209" y="1688" type="line"/>
+      <point x="1017" y="1392" type="line"/>
     </contour>
     <contour>
-      <point x="260" y="-173" type="line"/>
-      <point x="426" y="90" type="line"/>
-      <point x="310" y="169" type="line"/>
-      <point x="141" y="-99" type="line"/>
+      <point x="259" y="-174" type="line"/>
+      <point x="424" y="87" type="line"/>
+      <point x="308" y="166" type="line"/>
+      <point x="140" y="-100" type="line"/>
     </contour>
     <component base="O"/>
   </outline>

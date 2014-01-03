@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Jcircumflex" format="1">
-  <advance width="888"/>
+  <advance width="877"/>
   <unicode hex="0134"/>
   <outline>
-    <component base="circumflex" xOffset="-9" yOffset="356"/>
+    <component base="circumflex" xOffset="-1" yOffset="359"/>
     <component base="J"/>
   </outline>
   <lib>

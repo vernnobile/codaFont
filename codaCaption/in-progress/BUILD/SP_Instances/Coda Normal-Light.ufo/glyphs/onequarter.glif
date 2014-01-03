@@ -6,33 +6,33 @@
     <contour>
       <point x="1960" y="0" type="line"/>
       <point x="2124" y="0" type="line"/>
-      <point x="2124" y="699" type="line"/>
-      <point x="1960" y="699" type="line"/>
+      <point x="2124" y="704" type="line"/>
+      <point x="1960" y="704" type="line"/>
       <point x="1960" y="400" type="line"/>
       <point x="1544" y="400" type="line"/>
-      <point x="1544" y="411" type="line"/>
-      <point x="1908" y="1111" type="line"/>
-      <point x="1763" y="1111" type="line"/>
-      <point x="1365" y="396" type="line"/>
-      <point x="1365" y="265" type="line"/>
-      <point x="1960" y="265" type="line"/>
+      <point x="1544" y="409" type="line"/>
+      <point x="1908" y="1116" type="line"/>
+      <point x="1763" y="1116" type="line"/>
+      <point x="1365" y="393" type="line"/>
+      <point x="1365" y="272" type="line"/>
+      <point x="1960" y="272" type="line"/>
     </contour>
     <contour>
-      <point x="283" y="434" type="line"/>
-      <point x="438" y="434" type="line"/>
-      <point x="438" y="1474" type="line"/>
-      <point x="354" y="1474" type="line"/>
-      <point x="297" y="1439"/>
-      <point x="229" y="1419"/>
-      <point x="139" y="1419" type="curve"/>
-      <point x="139" y="1298" type="line"/>
-      <point x="283" y="1298" type="line"/>
+      <point x="283" y="426" type="line"/>
+      <point x="438" y="426" type="line"/>
+      <point x="438" y="1466" type="line"/>
+      <point x="354" y="1466" type="line"/>
+      <point x="297" y="1431"/>
+      <point x="229" y="1411"/>
+      <point x="139" y="1411" type="curve"/>
+      <point x="139" y="1291" type="line"/>
+      <point x="283" y="1291" type="line"/>
     </contour>
     <contour>
       <point x="610" y="0" type="line"/>
       <point x="717" y="0" type="line"/>
-      <point x="1443" y="1516" type="line"/>
-      <point x="1236" y="1516" type="line"/>
+      <point x="1443" y="1510" type="line"/>
+      <point x="1236" y="1510" type="line"/>
     </contour>
   </outline>
   <lib>

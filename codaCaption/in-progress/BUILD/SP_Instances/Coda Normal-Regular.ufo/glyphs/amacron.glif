@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="amacron" format="1">
-  <advance width="1122"/>
+  <advance width="1113"/>
   <unicode hex="0101"/>
   <outline>
     <component base="a"/>
-    <component base="macron" xOffset="119"/>
+    <component base="macron" xOffset="121"/>
   </outline>
   <lib>
     <dict>

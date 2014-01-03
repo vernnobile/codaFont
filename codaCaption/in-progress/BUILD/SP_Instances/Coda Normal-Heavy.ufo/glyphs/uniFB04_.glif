@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniFB04" format="1">
-  <advance width="3290"/>
+  <advance width="3140"/>
   <outline>
-    <component base="l" xOffset="2370"/>
+    <component base="l" xOffset="2265"/>
     <component base="f"/>
-    <component base="f" xOffset="1185"/>
+    <component base="f" xOffset="1133"/>
   </outline>
 </glyph>

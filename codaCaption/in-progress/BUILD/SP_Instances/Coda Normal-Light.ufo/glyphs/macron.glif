@@ -10,10 +10,10 @@
       <point x="369" y="1349" type="move" name="_mid"/>
     </contour>
     <contour>
-      <point x="96" y="1405" type="line"/>
-      <point x="96" y="1293" type="line"/>
-      <point x="660" y="1293" type="line"/>
-      <point x="660" y="1405" type="line"/>
+      <point x="96" y="1381" type="line"/>
+      <point x="96" y="1278" type="line"/>
+      <point x="660" y="1278" type="line"/>
+      <point x="660" y="1381" type="line"/>
     </contour>
   </outline>
   <lib>

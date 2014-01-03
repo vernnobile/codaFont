@@ -13,14 +13,14 @@
       <point x="522" y="905" type="move" name="mid"/>
     </contour>
     <contour>
-      <point x="61" y="1474" type="line"/>
+      <point x="61" y="1466" type="line"/>
       <point x="61" y="1338" type="line"/>
       <point x="446" y="1338" type="line"/>
       <point x="446" y="0" type="line"/>
       <point x="593" y="0" type="line"/>
       <point x="593" y="1338" type="line"/>
       <point x="986" y="1338" type="line"/>
-      <point x="986" y="1474" type="line"/>
+      <point x="986" y="1466" type="line"/>
     </contour>
   </outline>
   <lib>

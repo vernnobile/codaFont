@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1EBC" format="1">
-  <advance width="1164"/>
+  <advance width="1158"/>
   <unicode hex="1EBC"/>
   <outline>
     <component base="E"/>
-    <component base="tilde" xOffset="48" yOffset="377"/>
+    <component base="tilde" xOffset="55" yOffset="381"/>
   </outline>
 </glyph>

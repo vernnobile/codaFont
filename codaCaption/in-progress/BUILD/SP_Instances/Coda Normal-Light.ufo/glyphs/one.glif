@@ -6,13 +6,13 @@
     <contour>
       <point x="304" y="0" type="line"/>
       <point x="433" y="0" type="line"/>
-      <point x="433" y="1474" type="line"/>
-      <point x="323" y="1474" type="line"/>
-      <point x="291" y="1372"/>
-      <point x="221" y="1324"/>
-      <point x="124" y="1319" type="curve"/>
-      <point x="124" y="1246" type="line"/>
-      <point x="304" y="1246" type="line"/>
+      <point x="433" y="1466" type="line"/>
+      <point x="323" y="1466" type="line"/>
+      <point x="291" y="1360"/>
+      <point x="221" y="1311"/>
+      <point x="124" y="1306" type="curve"/>
+      <point x="124" y="1243" type="line"/>
+      <point x="304" y="1243" type="line"/>
     </contour>
   </outline>
   <lib>

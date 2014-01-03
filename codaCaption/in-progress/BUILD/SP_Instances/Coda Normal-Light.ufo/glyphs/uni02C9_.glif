@@ -7,10 +7,10 @@
       <point x="278" y="1069" type="move" name="_top"/>
     </contour>
     <contour>
-      <point x="-5" y="1405" type="line"/>
-      <point x="-5" y="1293" type="line"/>
-      <point x="559" y="1293" type="line"/>
-      <point x="559" y="1405" type="line"/>
+      <point x="-5" y="1381" type="line"/>
+      <point x="-5" y="1278" type="line"/>
+      <point x="559" y="1278" type="line"/>
+      <point x="559" y="1381" type="line"/>
     </contour>
   </outline>
 </glyph>

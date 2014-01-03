@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="i" format="1">
-  <advance width="843"/>
+  <advance width="810"/>
   <unicode hex="0069"/>
   <outline>
     <contour>
-      <point x="253" y="0" type="move" name="ogonek"/>
+      <point x="230" y="0" type="move" name="ogonek"/>
     </contour>
-    <component base="dotlessi" xOffset="-39"/>
-    <component base="dotaccent" xOffset="-174"/>
+    <component base="dotlessi" xOffset="-32"/>
+    <component base="dotaccent" xOffset="-150"/>
   </outline>
   <lib>
     <dict>

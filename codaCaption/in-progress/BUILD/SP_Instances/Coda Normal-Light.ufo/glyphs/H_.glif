@@ -13,18 +13,18 @@
       <point x="712" y="738" type="move" name="center"/>
     </contour>
     <contour>
-      <point x="1072" y="1474" type="line"/>
-      <point x="1072" y="832" type="line"/>
-      <point x="340" y="832" type="line"/>
-      <point x="340" y="1474" type="line"/>
-      <point x="193" y="1474" type="line"/>
+      <point x="1072" y="1466" type="line"/>
+      <point x="1072" y="827" type="line"/>
+      <point x="340" y="827" type="line"/>
+      <point x="340" y="1466" type="line"/>
+      <point x="193" y="1466" type="line"/>
       <point x="193" y="0" type="line"/>
       <point x="340" y="0" type="line"/>
       <point x="340" y="683" type="line"/>
       <point x="1072" y="683" type="line"/>
       <point x="1072" y="0" type="line"/>
       <point x="1219" y="0" type="line"/>
-      <point x="1219" y="1474" type="line"/>
+      <point x="1219" y="1466" type="line"/>
     </contour>
   </outline>
   <lib>

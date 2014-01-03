@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ntilde" format="1">
-  <advance width="1587"/>
+  <advance width="1579"/>
   <unicode hex="00D1"/>
   <outline>
     <component base="N"/>
-    <component base="tilde" xOffset="204" yOffset="356"/>
+    <component base="tilde" xOffset="208" yOffset="359"/>
   </outline>
 </glyph>

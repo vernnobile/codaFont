@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="E" format="1">
-  <advance width="1264"/>
+  <advance width="1250"/>
   <unicode hex="0045"/>
   <outline>
     <contour>
-      <point x="633" y="1585" type="move" name="top"/>
+      <point x="628" y="1574" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="684" y="0" type="move" name="ogonek"/>
+      <point x="681" y="0" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="633" y="0" type="move" name="bot"/>
+      <point x="628" y="0" type="move" name="bot"/>
     </contour>
     <contour>
-      <point x="183" y="1585" type="line"/>
-      <point x="183" y="0" type="line"/>
-      <point x="1118" y="0" type="line"/>
-      <point x="1120" y="241" type="line"/>
-      <point x="747" y="241" type="line"/>
-      <point x="747" y="709" type="line"/>
-      <point x="1089" y="709" type="line"/>
-      <point x="1089" y="951" type="line"/>
-      <point x="747" y="951" type="line"/>
-      <point x="747" y="1345" type="line"/>
-      <point x="1130" y="1345" type="line"/>
-      <point x="1117" y="1585" type="line"/>
+      <point x="184" y="1574" type="line"/>
+      <point x="184" y="0" type="line"/>
+      <point x="1109" y="0" type="line"/>
+      <point x="1113" y="231" type="line"/>
+      <point x="708" y="231" type="line"/>
+      <point x="708" y="708" type="line"/>
+      <point x="1074" y="708" type="line"/>
+      <point x="1074" y="940" type="line"/>
+      <point x="708" y="940" type="line"/>
+      <point x="708" y="1344" type="line"/>
+      <point x="1121" y="1344" type="line"/>
+      <point x="1107" y="1574" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -13,10 +13,10 @@
       <point x="232" y="0" type="move" name="bot"/>
     </contour>
     <contour>
-      <point x="158" y="1474" type="line"/>
+      <point x="158" y="1466" type="line"/>
       <point x="158" y="0" type="line"/>
       <point x="304" y="0" type="line"/>
-      <point x="304" y="1474" type="line"/>
+      <point x="304" y="1466" type="line"/>
     </contour>
   </outline>
   <lib>

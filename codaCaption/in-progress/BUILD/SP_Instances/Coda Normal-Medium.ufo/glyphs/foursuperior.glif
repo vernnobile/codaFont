@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="foursuperior" format="1">
-  <advance width="1208"/>
+  <advance width="1207"/>
   <unicode hex="2074"/>
   <outline>
     <contour>
-      <point x="775" y="414" type="line"/>
-      <point x="991" y="414" type="line"/>
-      <point x="991" y="1095" type="line"/>
-      <point x="775" y="1095" type="line"/>
-      <point x="775" y="816" type="line"/>
-      <point x="434" y="816" type="line"/>
-      <point x="434" y="834" type="line"/>
-      <point x="747" y="1507" type="line"/>
-      <point x="538" y="1507" type="line"/>
-      <point x="200" y="823" type="line"/>
-      <point x="200" y="651" type="line"/>
-      <point x="775" y="651" type="line"/>
+      <point x="778" y="408" type="line"/>
+      <point x="986" y="408" type="line"/>
+      <point x="986" y="1091" type="line"/>
+      <point x="778" y="1091" type="line"/>
+      <point x="778" y="809" type="line"/>
+      <point x="427" y="809" type="line"/>
+      <point x="427" y="826" type="line"/>
+      <point x="747" y="1503" type="line"/>
+      <point x="546" y="1503" type="line"/>
+      <point x="200" y="814" type="line"/>
+      <point x="200" y="648" type="line"/>
+      <point x="778" y="648" type="line"/>
     </contour>
   </outline>
   <lib>

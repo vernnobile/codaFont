@@ -8,10 +8,10 @@
 <data name="zPreviewAxis" value="None" />
 <data name="horizontalPreviewAxis" value="new_axis_1" />
 <data name="preferLeftToRight" value="1" />
-<data name="previewTypeSize" value="50.0" />
-<data name="previewtext" value="hamburg docker strike" />
+<data name="previewTypeSize" value="200.0" />
+<data name="previewtext" value="niones Bokane" />
 <data name="verticalPreviewAxis" value="None" />
-<data name="projectionAngle" value="2.68564524638" />
+<data name="projectionAngle" value="2.68561454657" />
 <!-- axis definitions -->
 <axis maximum="1000" minimum="0" name="new_axis_1" shortname="xx" />
 
@@ -34,32 +34,32 @@
 <!-- instance definitions -->
 <instance familyname="Coda Normal" sequence="" stylename="Light">
 <location>
-<dimension name="new_axis_1" xvalue="-140" yvalue="-150" />
+<dimension name="new_axis_1" xvalue="-140" yvalue="-230" />
 </location>
 </instance>
 <instance familyname="Coda Normal" sequence="" stylename="Bold">
 <location>
-<dimension name="new_axis_1" xvalue="380" />
+<dimension name="new_axis_1" xvalue="350" />
 </location>
 </instance>
 <instance familyname="Coda Normal" sequence="" stylename="Medium">
 <location>
-<dimension name="new_axis_1" xvalue="160" />
+<dimension name="new_axis_1" xvalue="120" />
 </location>
 </instance>
 <instance familyname="Coda Normal" sequence="" stylename="Regular">
 <location>
-<dimension name="new_axis_1" xvalue="-10" />
+<dimension name="new_axis_1" xvalue="-30" yvalue="-50" />
 </location>
 </instance>
 <instance familyname="Coda Normal" sequence="" stylename="ExtraBold">
 <location>
-<dimension name="new_axis_1" xvalue="660" />
+<dimension name="new_axis_1" xvalue="580" />
 </location>
 </instance>
 <instance familyname="Coda Normal" sequence="" stylename="Heavy">
 <location>
-<dimension name="new_axis_1" xvalue="900" />
+<dimension name="new_axis_1" xvalue="800" />
 </location>
 </instance>
 </designspace>

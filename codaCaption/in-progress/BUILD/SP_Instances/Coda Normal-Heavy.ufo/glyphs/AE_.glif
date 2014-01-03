@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="AE" format="1">
-  <advance width="1914"/>
+  <advance width="1932"/>
   <unicode hex="00C6"/>
   <outline>
     <contour>
-      <point x="1110" y="1585" type="move" name="top"/>
+      <point x="1116" y="1574" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="0" y="0" type="line"/>
-      <point x="585" y="0" type="line"/>
-      <point x="721" y="351" type="line"/>
-      <point x="976" y="351" type="line"/>
-      <point x="976" y="0" type="line"/>
-      <point x="1899" y="0" type="line"/>
-      <point x="1899" y="236" type="line"/>
-      <point x="1526" y="236" type="line"/>
-      <point x="1526" y="710" type="line"/>
-      <point x="1865" y="710" type="line"/>
-      <point x="1865" y="951" type="line"/>
-      <point x="1526" y="951" type="line"/>
-      <point x="1526" y="1351" type="line"/>
-      <point x="1897" y="1351" type="line"/>
-      <point x="1897" y="1585" type="line"/>
-      <point x="680" y="1585" type="line"/>
+      <point x="11" y="0" type="line"/>
+      <point x="557" y="0" type="line"/>
+      <point x="702" y="355" type="line"/>
+      <point x="985" y="355" type="line"/>
+      <point x="985" y="0" type="line"/>
+      <point x="1903" y="0" type="line"/>
+      <point x="1903" y="229" type="line"/>
+      <point x="1498" y="229" type="line"/>
+      <point x="1498" y="708" type="line"/>
+      <point x="1859" y="708" type="line"/>
+      <point x="1859" y="942" type="line"/>
+      <point x="1498" y="942" type="line"/>
+      <point x="1498" y="1348" type="line"/>
+      <point x="1899" y="1348" type="line"/>
+      <point x="1899" y="1574" type="line"/>
+      <point x="709" y="1574" type="line"/>
     </contour>
     <contour>
-      <point x="794" y="573" type="line"/>
-      <point x="976" y="1082" type="line"/>
-      <point x="976" y="573" type="line"/>
+      <point x="774" y="567" type="line"/>
+      <point x="985" y="1113" type="line"/>
+      <point x="985" y="567" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Sigma" format="1">
-  <advance width="1279"/>
+  <advance width="1272"/>
   <unicode hex="03A3"/>
   <outline>
     <contour>
-      <point x="145" y="0" type="line"/>
-      <point x="1193" y="0" type="line"/>
-      <point x="1193" y="239" type="line"/>
-      <point x="518" y="239" type="line"/>
-      <point x="954" y="730" type="line"/>
-      <point x="954" y="827" type="line"/>
-      <point x="519" y="1298" type="line"/>
-      <point x="1145" y="1298" type="line"/>
-      <point x="1145" y="1530" type="line"/>
-      <point x="145" y="1530" type="line"/>
-      <point x="145" y="1299" type="line"/>
-      <point x="599" y="798" type="line"/>
-      <point x="145" y="258" type="line"/>
+      <point x="144" y="0" type="line"/>
+      <point x="1187" y="0" type="line"/>
+      <point x="1187" y="236" type="line"/>
+      <point x="505" y="236" type="line"/>
+      <point x="945" y="730" type="line"/>
+      <point x="945" y="827" type="line"/>
+      <point x="508" y="1297" type="line"/>
+      <point x="1139" y="1297" type="line"/>
+      <point x="1139" y="1527" type="line"/>
+      <point x="144" y="1527" type="line"/>
+      <point x="144" y="1298" type="line"/>
+      <point x="600" y="796" type="line"/>
+      <point x="144" y="255" type="line"/>
     </contour>
   </outline>
 </glyph>

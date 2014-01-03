@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>ascender</key>
-	<integer>1569</integer>
+	<integer>1565</integer>
 	<key>capHeight</key>
-	<integer>1530</integer>
+	<integer>1527</integer>
 	<key>descender</key>
 	<integer>-410</integer>
 	<key>familyName</key>
@@ -70,8 +70,8 @@
 	</array>
 	<key>postscriptStemSnapH</key>
 	<array>
-		<integer>171</integer>
-		<integer>190</integer>
+		<integer>168</integer>
+		<integer>187</integer>
 		<integer>263</integer>
 	</array>
 	<key>postscriptStemSnapV</key>
@@ -86,6 +86,6 @@
 	<key>unitsPerEm</key>
 	<integer>2048</integer>
 	<key>xHeight</key>
-	<integer>1174</integer>
+	<integer>1168</integer>
 </dict>
 </plist>

@@ -4,10 +4,10 @@
   <unicode hex="0026"/>
   <outline>
     <contour>
-      <point x="658" y="-23" type="curve" smooth="yes"/>
-      <point x="999" y="-23"/>
-      <point x="1213" y="117"/>
-      <point x="1213" y="371" type="curve"/>
+      <point x="678" y="-23" type="curve" smooth="yes"/>
+      <point x="1114" y="-23"/>
+      <point x="1214" y="85"/>
+      <point x="1213" y="371" type="curve" smooth="yes"/>
       <point x="1212" y="727" type="line"/>
       <point x="1346" y="728" type="line"/>
       <point x="1346" y="853" type="line"/>
@@ -29,7 +29,7 @@
       <point x="1032" y="1305"/>
       <point x="1038" y="1262"/>
       <point x="1043" y="1183" type="curve"/>
-      <point x="1195" y="1208" type="line"/>
+      <point x="1195" y="1199" type="line"/>
       <point x="1195" y="1302" type="line" smooth="yes"/>
       <point x="1195" y="1489"/>
       <point x="1016" y="1522"/>
@@ -54,8 +54,8 @@
       <point x="307" y="-23"/>
     </contour>
     <contour>
-      <point x="658" y="138" type="curve" smooth="yes"/>
-      <point x="441" y="138"/>
+      <point x="678" y="138" type="curve" smooth="yes"/>
+      <point x="411" y="138"/>
       <point x="342" y="215"/>
       <point x="342" y="382" type="curve" smooth="yes"/>
       <point x="342" y="607"/>
@@ -64,14 +64,13 @@
       <point x="1030" y="728" type="line"/>
       <point x="1030" y="357" type="line" smooth="yes"/>
       <point x="1030" y="211"/>
-      <point x="887" y="138"/>
+      <point x="1001" y="138"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

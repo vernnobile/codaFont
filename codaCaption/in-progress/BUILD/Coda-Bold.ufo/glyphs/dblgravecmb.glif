@@ -5,11 +5,11 @@
   <outline>
     <contour>
       <point x="1076" y="1376" type="curve" smooth="yes"/>
-      <point x="1109.306907" y="1363.88839746"/>
-      <point x="1140.53990888" y="1372.14744656"/>
-      <point x="1157.70257003" y="1389.00269406" type="curve" smooth="yes"/>
-      <point x="1178.36029691" y="1409.29040447"/>
-      <point x="1177.26319297" y="1444.76970615"/>
+      <point x="1109.31" y="1363.89"/>
+      <point x="1140.54" y="1372.15"/>
+      <point x="1157.7" y="1389" type="curve" smooth="yes"/>
+      <point x="1178.36" y="1409.29"/>
+      <point x="1177.26" y="1444.77"/>
       <point x="1137" y="1480" type="curve" smooth="yes"/>
       <point x="974" y="1629"/>
       <point x="764" y="1835"/>
@@ -28,11 +28,11 @@
     </contour>
     <contour>
       <point x="1767" y="1376" type="curve" smooth="yes"/>
-      <point x="1801.38201317" y="1363.49744976"/>
-      <point x="1833.57320761" y="1372.59523918"/>
-      <point x="1850.31924178" y="1390.66653269" type="curve" smooth="yes"/>
-      <point x="1869.32158443" y="1411.17269602"/>
-      <point x="1867.18343266" y="1445.71449642"/>
+      <point x="1801.38" y="1363.5"/>
+      <point x="1833.57" y="1372.6"/>
+      <point x="1850.32" y="1390.67" type="curve" smooth="yes"/>
+      <point x="1869.32" y="1411.17"/>
+      <point x="1867.18" y="1445.71"/>
       <point x="1828" y="1480" type="curve" smooth="yes"/>
       <point x="1665" y="1629"/>
       <point x="1455" y="1835"/>
@@ -57,6 +57,28 @@
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dblgravecmb</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1777</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

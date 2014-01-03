@@ -17,14 +17,13 @@
     </contour>
     <component base="O"/>
     <contour>
-      <point x="852.0" y="1595.0" type="move" name="top"/>
+      <point x="852" y="1595" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

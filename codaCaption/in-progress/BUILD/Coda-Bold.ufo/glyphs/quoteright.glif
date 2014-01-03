@@ -5,7 +5,7 @@
   <outline>
     <contour>
       <point x="295" y="990" type="line"/>
-      <point x="395" y="976.667"/>
+      <point x="539" y="990"/>
       <point x="686" y="1173.53"/>
       <point x="686" y="1390" type="curve" smooth="yes"/>
       <point x="686" y="1519"/>
@@ -22,4 +22,33 @@
       <point x="295" y="1099" type="curve"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>quoteright</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>966</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

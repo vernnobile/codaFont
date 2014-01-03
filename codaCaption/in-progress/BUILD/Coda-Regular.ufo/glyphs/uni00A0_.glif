@@ -5,4 +5,10 @@
   <outline>
     <component base="space"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+    </dict>
+  </lib>
 </glyph>

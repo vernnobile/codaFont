@@ -13,16 +13,38 @@
       <point x="783" y="1624" type="move" name="_mid"/>
     </contour>
     <contour>
-      <point x="777" y="1300" type="move" name="_top"/>
+      <point x="781" y="1646" type="move" name="_bar"/>
     </contour>
     <contour>
-      <point x="781" y="1646" type="move" name="_bar"/>
+      <point x="777" y="1300" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>macron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1310</integer>
+        </dict>
       </dict>
     </dict>
   </lib>

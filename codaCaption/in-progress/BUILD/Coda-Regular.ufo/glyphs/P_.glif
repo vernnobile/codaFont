@@ -21,17 +21,17 @@
       <point x="394" y="672" type="line"/>
       <point x="394" y="1340" type="line"/>
       <point x="788" y="1340" type="line" smooth="yes"/>
-      <point x="855.794647872" y="1340.0"/>
-      <point x="901.24977156" y="1331.81346629"/>
-      <point x="931.859826236" y="1307.79088601" type="curve" smooth="yes"/>
-      <point x="983.424841802" y="1267.32298292"/>
-      <point x="992.862490326" y="1181.91551465"/>
+      <point x="855.795" y="1340"/>
+      <point x="901.25" y="1331.81"/>
+      <point x="931.86" y="1307.79" type="curve" smooth="yes"/>
+      <point x="983.425" y="1267.32"/>
+      <point x="992.862" y="1181.92"/>
       <point x="996" y="1015" type="curve" smooth="yes"/>
-      <point x="996.0" y="858.862448573"/>
-      <point x="996.86077731" y="759.966588242"/>
-      <point x="926.582513289" y="710.406556567" type="curve" smooth="yes"/>
-      <point x="889.73583085" y="684.42238103"/>
-      <point x="833.333926857" y="672.0"/>
+      <point x="996" y="858.862"/>
+      <point x="996.861" y="759.967"/>
+      <point x="926.583" y="710.407" type="curve" smooth="yes"/>
+      <point x="889.736" y="684.422"/>
+      <point x="833.334" y="672"/>
       <point x="747" y="672" type="curve" smooth="yes"/>
     </contour>
     <contour>
@@ -44,8 +44,7 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

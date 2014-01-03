@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="i" format="1">
-  <advance width="547"/>
+  <advance width="496"/>
   <unicode hex="0069"/>
   <outline>
-    <component base="dotlessi" xOffset="24"/>
-    <component base="dotaccent" xOffset="50"/>
+    <component base="dotlessi"/>
+    <component base="dotaccent" xOffset="26"/>
     <contour>
       <point x="24" y="0" type="move" name="ogonek"/>
     </contour>
@@ -12,8 +12,7 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

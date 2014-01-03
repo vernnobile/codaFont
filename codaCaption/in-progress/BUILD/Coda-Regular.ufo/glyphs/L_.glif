@@ -12,10 +12,10 @@
       <point x="395" y="1490" type="line"/>
     </contour>
     <contour>
-      <point x="345" y="1098" type="move" name="caron.alt"/>
+      <point x="548" y="0" type="move" name="bot"/>
     </contour>
     <contour>
-      <point x="548" y="0" type="move" name="bot"/>
+      <point x="345" y="1098" type="move" name="caron.alt"/>
     </contour>
     <contour>
       <point x="309" y="1490" type="move" name="top"/>
@@ -24,8 +24,7 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

@@ -6,4 +6,10 @@
     <component base="I"/>
     <component base="ogonek" xOffset="-154"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+    </dict>
+  </lib>
 </glyph>

@@ -14,7 +14,7 @@
       <point x="1029" y="1490" type="line"/>
     </contour>
     <contour>
-      <point x="442" y="745" type="move" name="center"/>
+      <point x="543" y="0" type="move" name="bot"/>
     </contour>
     <contour>
       <point x="543" y="1490" type="move" name="top"/>
@@ -23,14 +23,13 @@
       <point x="541" y="897" type="move" name="mid"/>
     </contour>
     <contour>
-      <point x="543" y="0" type="move" name="bot"/>
+      <point x="442" y="745" type="move" name="center"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="macron" format="1">
-  <advance width="1018"/>
+  <advance width="920"/>
   <unicode hex="00AF"/>
   <outline>
     <contour>
-      <point x="554" y="1172" type="move" name="_top"/>
+      <point x="480" y="1129" type="move" name="_top"/>
     </contour>
     <contour>
-      <point x="554" y="1472" type="move" name="_mid"/>
+      <point x="478" y="1422" type="move" name="_mid"/>
     </contour>
     <contour>
-      <point x="216" y="1576" type="line"/>
-      <point x="216" y="1403" type="line"/>
-      <point x="900" y="1403" type="line"/>
-      <point x="900" y="1576" type="line"/>
+      <point x="167" y="1494" type="line"/>
+      <point x="167" y="1351" type="line"/>
+      <point x="801" y="1351" type="line"/>
+      <point x="801" y="1494" type="line"/>
     </contour>
   </outline>
   <lib>

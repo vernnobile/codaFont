@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="l" format="1">
-  <advance width="463"/>
+  <advance width="445"/>
   <unicode hex="006C"/>
   <outline>
     <contour>
-      <point x="245" y="1480" type="move" name="top"/>
+      <point x="235" y="1475" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="256" y="1077" type="move" name="caron.alt"/>
+      <point x="244" y="1069" type="move" name="caron.alt"/>
     </contour>
     <contour>
-      <point x="248" y="0" type="move" name="bot"/>
+      <point x="239" y="0" type="move" name="bot"/>
     </contour>
     <contour>
-      <point x="247" y="1108" type="move" name="mid"/>
+      <point x="238" y="1112" type="move" name="mid"/>
     </contour>
     <contour>
-      <point x="247" y="0" type="move" name="bottom"/>
+      <point x="238" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="167" y="1509" type="line"/>
-      <point x="167" y="0" type="line"/>
-      <point x="326" y="0" type="line"/>
-      <point x="326" y="1509" type="line"/>
+      <point x="165" y="1509" type="line"/>
+      <point x="165" y="0" type="line"/>
+      <point x="310" y="0" type="line"/>
+      <point x="310" y="1509" type="line"/>
     </contour>
   </outline>
   <lib>

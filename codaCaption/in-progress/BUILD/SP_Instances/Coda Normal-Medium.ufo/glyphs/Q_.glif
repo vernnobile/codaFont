@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Q" format="1">
-  <advance width="1548"/>
+  <advance width="1489"/>
   <unicode hex="0051"/>
   <outline>
     <contour>
-      <point x="793" y="54" type="line"/>
-      <point x="1081" y="-389" type="line"/>
-      <point x="1294" y="-263" type="line"/>
-      <point x="1070" y="94" type="line"/>
+      <point x="823" y="39" type="line"/>
+      <point x="1091" y="-369" type="line"/>
+      <point x="1269" y="-268" type="line"/>
+      <point x="1054" y="78" type="line"/>
     </contour>
     <component base="O"/>
   </outline>

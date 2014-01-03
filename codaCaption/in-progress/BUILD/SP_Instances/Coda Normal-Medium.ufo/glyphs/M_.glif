@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="M" format="1">
-  <advance width="1864"/>
+  <advance width="1810"/>
   <unicode hex="004D"/>
   <outline>
     <contour>
-      <point x="930" y="1529" type="move" name="top"/>
+      <point x="905" y="1507" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="930" y="0" type="move" name="bot"/>
+      <point x="905" y="0" type="move" name="bot"/>
     </contour>
     <contour>
-      <point x="1247" y="1536" type="line"/>
-      <point x="935" y="479" type="line"/>
-      <point x="928" y="479" type="line"/>
-      <point x="611" y="1536" type="line"/>
-      <point x="225" y="1536" type="line"/>
-      <point x="132" y="0" type="line"/>
-      <point x="420" y="0" type="line"/>
-      <point x="484" y="1083" type="line"/>
-      <point x="490" y="1083" type="line"/>
-      <point x="816" y="0" type="line"/>
-      <point x="1047" y="0" type="line"/>
-      <point x="1364" y="1083" type="line"/>
-      <point x="1372" y="1083" type="line"/>
-      <point x="1437" y="0" type="line"/>
-      <point x="1727" y="0" type="line"/>
-      <point x="1634" y="1536" type="line"/>
+      <point x="1283" y="1507" type="line"/>
+      <point x="909" y="384" type="line"/>
+      <point x="905" y="384" type="line"/>
+      <point x="524" y="1507" type="line"/>
+      <point x="232" y="1507" type="line"/>
+      <point x="136" y="0" type="line"/>
+      <point x="367" y="0" type="line"/>
+      <point x="433" y="1145" type="line"/>
+      <point x="437" y="1145" type="line"/>
+      <point x="823" y="0" type="line"/>
+      <point x="989" y="0" type="line"/>
+      <point x="1359" y="1145" type="line"/>
+      <point x="1365" y="1145" type="line"/>
+      <point x="1434" y="0" type="line"/>
+      <point x="1671" y="0" type="line"/>
+      <point x="1575" y="1507" type="line"/>
     </contour>
   </outline>
   <lib>

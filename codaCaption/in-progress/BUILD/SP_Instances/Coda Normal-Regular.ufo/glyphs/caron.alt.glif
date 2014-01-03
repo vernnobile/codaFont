@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="caron.alt" format="1">
-  <advance width="661"/>
+  <advance width="594"/>
   <outline>
     <contour>
-      <point x="86" y="1117" type="move" name="_caron.alt"/>
+      <point x="52" y="1095" type="move" name="_caron.alt"/>
     </contour>
     <contour>
-      <point x="291" y="1623" type="curve" smooth="yes"/>
-      <point x="291" y="1511"/>
-      <point x="342" y="1453"/>
-      <point x="437" y="1448" type="curve"/>
-      <point x="436" y="1358"/>
-      <point x="383" y="1291"/>
-      <point x="306" y="1288" type="curve"/>
-      <point x="306" y="1222" type="line"/>
-      <point x="486" y="1222"/>
-      <point x="600" y="1396"/>
-      <point x="600" y="1574" type="curve" smooth="yes"/>
-      <point x="600" y="1701"/>
-      <point x="524" y="1763"/>
-      <point x="441" y="1763" type="curve" smooth="yes"/>
-      <point x="366" y="1763"/>
-      <point x="291" y="1710"/>
+      <point x="248" y="1571" type="curve" smooth="yes"/>
+      <point x="248" y="1463"/>
+      <point x="295" y="1407"/>
+      <point x="390" y="1402" type="curve"/>
+      <point x="390" y="1310"/>
+      <point x="339" y="1239"/>
+      <point x="262" y="1236" type="curve"/>
+      <point x="262" y="1177" type="line"/>
+      <point x="442" y="1177"/>
+      <point x="544" y="1350"/>
+      <point x="544" y="1521" type="curve" smooth="yes"/>
+      <point x="544" y="1648"/>
+      <point x="467" y="1702"/>
+      <point x="392" y="1702" type="curve" smooth="yes"/>
+      <point x="320" y="1702"/>
+      <point x="248" y="1652"/>
     </contour>
   </outline>
   <lib>

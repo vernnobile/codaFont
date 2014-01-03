@@ -75,9 +75,11 @@
   <lib>
     <dict>
       <key>com.typemytype.robofont.guides</key>
-      <array/>
+      <array>
+      </array>
       <key>com.typemytype.robofont.layerData</key>
-      <dict/>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

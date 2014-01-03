@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="periodcentered" format="1">
+  <advance width="1295"/>
+  <unicode hex="00B7"/>
+  <outline>
+    <contour>
+      <point x="879" y="943" type="curve" smooth="yes"/>
+      <point x="963" y="943"/>
+      <point x="1046" y="1001"/>
+      <point x="1046" y="1116" type="curve" smooth="yes"/>
+      <point x="1046" y="1231"/>
+      <point x="963" y="1289"/>
+      <point x="879" y="1289" type="curve" smooth="yes"/>
+      <point x="795" y="1289"/>
+      <point x="711" y="1231"/>
+      <point x="711" y="1116" type="curve" smooth="yes"/>
+      <point x="711" y="1001"/>
+      <point x="795" y="943"/>
+    </contour>
+    <contour>
+      <point x="364" y="1113" type="move" name="_mid"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

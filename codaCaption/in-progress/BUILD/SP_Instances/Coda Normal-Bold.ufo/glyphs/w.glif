@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="w" format="1">
+  <advance width="1876"/>
+  <unicode hex="0077"/>
+  <outline>
+    <contour>
+      <point x="936" y="1231" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="939" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="276" y="0" type="line"/>
+      <point x="800" y="0" type="line"/>
+      <point x="932" y="820" type="line"/>
+      <point x="939" y="820" type="line"/>
+      <point x="1077" y="0" type="line"/>
+      <point x="1597" y="0" type="line"/>
+      <point x="1822" y="1231" type="line"/>
+      <point x="1433" y="1231" type="line"/>
+      <point x="1303" y="327" type="line"/>
+      <point x="1293" y="327" type="line"/>
+      <point x="1149" y="1231" type="line"/>
+      <point x="729" y="1231" type="line"/>
+      <point x="584" y="327" type="line"/>
+      <point x="575" y="327" type="line"/>
+      <point x="439" y="1231" type="line"/>
+      <point x="47" y="1231" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>488</integer>
+          <key>y</key>
+          <integer>215</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

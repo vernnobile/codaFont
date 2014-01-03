@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="greater" format="1">
+  <advance width="1376"/>
+  <unicode hex="003E"/>
+  <outline>
+    <contour>
+      <point x="270" y="0" type="line"/>
+      <point x="1146" y="419" type="line"/>
+      <point x="1146" y="1028" type="line"/>
+      <point x="270" y="1447" type="line"/>
+      <point x="270" y="942" type="line"/>
+      <point x="871" y="727" type="line"/>
+      <point x="270" y="504" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

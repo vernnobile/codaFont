@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero" format="1">
+  <advance width="1674"/>
+  <unicode hex="0030"/>
+  <outline>
+    <contour>
+      <point x="834.0" y="233.0" type="line"/>
+      <point x="751" y="233" type="line"/>
+      <point x="751.0" y="796.0" type="line"/>
+      <point x="751" y="1359" type="line"/>
+      <point x="834.0" y="1359.0" type="line"/>
+      <point x="917" y="1359" type="line"/>
+      <point x="917.0" y="796.0" type="line"/>
+      <point x="917" y="233" type="line"/>
+    </contour>
+    <contour>
+      <point x="837" y="-39" type="curve" smooth="yes"/>
+      <point x="1149" y="-39"/>
+      <point x="1481" y="-25"/>
+      <point x="1481" y="352" type="curve" smooth="yes"/>
+      <point x="1481" y="1242" type="line" smooth="yes"/>
+      <point x="1481" y="1603"/>
+      <point x="1154" y="1633"/>
+      <point x="836" y="1633" type="curve" smooth="yes"/>
+      <point x="527" y="1633"/>
+      <point x="187" y="1610"/>
+      <point x="187" y="1242" type="curve" smooth="yes"/>
+      <point x="187" y="352" type="line" smooth="yes"/>
+      <point x="187" y="-14"/>
+      <point x="520" y="-39"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

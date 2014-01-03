@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccent" format="1">
+  <advance width="1127"/>
+  <unicode hex="02D9"/>
+  <outline>
+    <contour>
+      <point x="364" y="1487" type="line"/>
+      <point x="935" y="1487" type="line"/>
+      <point x="935" y="1771" type="line"/>
+      <point x="364" y="1771" type="line"/>
+    </contour>
+    <contour>
+      <point x="648" y="1300" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

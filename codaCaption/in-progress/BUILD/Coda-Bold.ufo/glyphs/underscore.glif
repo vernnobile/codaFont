@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="underscore" format="1">
+  <advance width="901"/>
+  <unicode hex="005F"/>
+  <outline>
+    <contour>
+      <point x="6" y="-84" type="line"/>
+      <point x="6" y="-345" type="line"/>
+      <point x="895" y="-345" type="line"/>
+      <point x="895" y="-84" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

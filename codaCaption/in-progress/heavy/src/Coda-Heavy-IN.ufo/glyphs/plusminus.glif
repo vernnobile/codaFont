@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="plusminus" format="1">
+  <advance width="1498"/>
+  <unicode hex="00B1"/>
+  <outline>
+    <contour>
+      <point x="552" y="503" type="line"/>
+      <point x="944" y="503" type="line"/>
+      <point x="944" y="881" type="line"/>
+      <point x="1308" y="881" type="line"/>
+      <point x="1308" y="1214" type="line"/>
+      <point x="944" y="1214" type="line"/>
+      <point x="944" y="1595" type="line"/>
+      <point x="552" y="1595" type="line"/>
+      <point x="552" y="1214" type="line"/>
+      <point x="187" y="1214" type="line"/>
+      <point x="187" y="881" type="line"/>
+      <point x="552" y="881" type="line"/>
+    </contour>
+    <contour>
+      <point x="325" y="-1" type="line"/>
+      <point x="1159" y="-1" type="line"/>
+      <point x="1159" y="300" type="line"/>
+      <point x="325" y="300" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="radical" format="1">
+  <advance width="1453"/>
+  <unicode hex="221A"/>
+  <outline>
+    <contour>
+      <point x="542" y="0" type="line"/>
+      <point x="691" y="0" type="line"/>
+      <point x="1324" y="1464" type="line"/>
+      <point x="1094" y="1464" type="line"/>
+      <point x="598" y="251" type="line"/>
+      <point x="381" y="658" type="line"/>
+      <point x="156" y="658" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

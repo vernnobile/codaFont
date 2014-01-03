@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven" format="1">
+  <advance width="1277"/>
+  <unicode hex="0037"/>
+  <outline>
+    <contour>
+      <point x="243" y="0" type="line"/>
+      <point x="847" y="0" type="line"/>
+      <point x="1073" y="1351" type="line"/>
+      <point x="1073" y="1595" type="line"/>
+      <point x="171" y="1595" type="line"/>
+      <point x="171" y="1354" type="line"/>
+      <point x="465" y="1354" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

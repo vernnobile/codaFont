@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="o" format="1">
+  <advance width="1188"/>
+  <unicode hex="006F"/>
+  <outline>
+    <contour>
+      <point x="186" y="1117"/>
+      <point x="132" y="1032"/>
+      <point x="132" y="585" type="curve" smooth="yes"/>
+      <point x="132" y="557" type="line" smooth="yes"/>
+      <point x="132" y="101"/>
+      <point x="158" y="-20"/>
+      <point x="593" y="-20" type="curve" smooth="yes"/>
+      <point x="1029" y="-20"/>
+      <point x="1056" y="100"/>
+      <point x="1056" y="557" type="curve" smooth="yes"/>
+      <point x="1056" y="586" type="line" smooth="yes"/>
+      <point x="1056" y="1033"/>
+      <point x="1002" y="1117"/>
+      <point x="594" y="1117" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="595" y="118" type="curve" smooth="yes"/>
+      <point x="418" y="118"/>
+      <point x="340" y="137"/>
+      <point x="340" y="210" type="curve"/>
+      <point x="339" y="884" type="line"/>
+      <point x="339" y="978"/>
+      <point x="475" y="978"/>
+      <point x="594" y="978" type="curve" smooth="yes"/>
+      <point x="713" y="978"/>
+      <point x="849" y="978"/>
+      <point x="849" y="884" type="curve" smooth="yes"/>
+      <point x="848" y="210" type="line" smooth="yes"/>
+      <point x="848" y="135"/>
+      <point x="772" y="118"/>
+    </contour>
+    <contour>
+      <point x="595" y="1097" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="594" y="0" type="move" name="bot"/>
+    </contour>
+    <contour>
+      <point x="672" y="0" type="move" name="ogonek"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

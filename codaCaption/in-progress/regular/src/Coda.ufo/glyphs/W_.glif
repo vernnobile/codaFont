@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="W" format="1">
+  <advance width="1915"/>
+  <unicode hex="0057"/>
+  <outline>
+    <contour>
+      <point x="426.0" y="0.0" type="line"/>
+      <point x="642.0" y="0.0" type="line"/>
+      <point x="960.0" y="1162.0" type="line"/>
+      <point x="960.0" y="1162.0"/>
+      <point x="975.0" y="1162.0"/>
+      <point x="975.0" y="1162.0" type="curve"/>
+      <point x="1269.0" y="0.0" type="line"/>
+      <point x="1486.0" y="0.0" type="line"/>
+      <point x="1807.0" y="1490.0" type="line"/>
+      <point x="1617.0" y="1490.0" type="line"/>
+      <point x="1392.0" y="308.0" type="line"/>
+      <point x="1392.0" y="308.0"/>
+      <point x="1378.0" y="308.0"/>
+      <point x="1378.0" y="308.0" type="curve"/>
+      <point x="1067.0" y="1490.0" type="line"/>
+      <point x="866.0" y="1490.0" type="line"/>
+      <point x="551.0" y="300.0" type="line"/>
+      <point x="551.0" y="300.0"/>
+      <point x="542.0" y="300.0"/>
+      <point x="542.0" y="300.0" type="curve"/>
+      <point x="312.0" y="1490.0" type="line"/>
+      <point x="108.0" y="1490.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="955" y="1490" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="955" y="0" type="move" name="bot"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

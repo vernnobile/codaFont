@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onequarter" format="1">
+  <advance width="2485"/>
+  <unicode hex="00BC"/>
+  <outline>
+    <contour>
+      <point x="2158" y="130" type="line"/>
+      <point x="2517" y="130" type="line"/>
+      <point x="2517" y="760" type="line"/>
+      <point x="2158" y="760" type="line"/>
+      <point x="2158" y="535" type="line"/>
+      <point x="2028" y="535" type="line"/>
+      <point x="2028" y="571" type="line"/>
+      <point x="2197" y="1172" type="line"/>
+      <point x="1812" y="1172" type="line"/>
+      <point x="1642" y="571" type="line"/>
+      <point x="1642" y="291" type="line"/>
+      <point x="2158" y="291" type="line"/>
+    </contour>
+    <contour>
+      <point x="193" y="430" type="line"/>
+      <point x="588" y="430" type="line"/>
+      <point x="588" y="1470" type="line"/>
+      <point x="276" y="1470" type="line"/>
+      <point x="219" y="1435"/>
+      <point x="139" y="1415"/>
+      <point x="49" y="1415" type="curve"/>
+      <point x="49" y="1271" type="line"/>
+      <point x="193" y="1271" type="line"/>
+    </contour>
+    <contour>
+      <point x="769" y="0" type="line"/>
+      <point x="1204" y="0" type="line"/>
+      <point x="1555" y="1595" type="line"/>
+      <point x="1121" y="1595" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

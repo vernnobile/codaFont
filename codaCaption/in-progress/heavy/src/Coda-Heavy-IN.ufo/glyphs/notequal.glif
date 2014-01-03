@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="notequal" format="1">
+  <advance width="1271"/>
+  <unicode hex="2260"/>
+  <outline>
+    <contour>
+      <point x="388" y="174" type="line"/>
+      <point x="567" y="174" type="line"/>
+      <point x="651" y="414" type="line"/>
+      <point x="1054" y="414" type="line"/>
+      <point x="1054" y="603" type="line"/>
+      <point x="717" y="603" type="line"/>
+      <point x="782" y="792" type="line"/>
+      <point x="1054" y="792" type="line"/>
+      <point x="1054" y="981" type="line"/>
+      <point x="848" y="981" type="line"/>
+      <point x="933" y="1224" type="line"/>
+      <point x="755" y="1224" type="line"/>
+      <point x="670" y="981" type="line"/>
+      <point x="219" y="981" type="line"/>
+      <point x="219" y="792" type="line"/>
+      <point x="604" y="792" type="line"/>
+      <point x="538" y="603" type="line"/>
+      <point x="219" y="603" type="line"/>
+      <point x="219" y="414" type="line"/>
+      <point x="472" y="414" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.pippin.gimp.org.kernagic</key>
+      <dict>
+        <key>lstem</key>
+        <integer>0</integer>
+        <key>rstem</key>
+        <integer>0</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
